@@ -7,3 +7,5 @@ This program uses as input data the AEP calculated in the file "PAE AND PLOSS Nu
   The economic analysis also uses the Wind Resource Data calculated in the folder "COMPARACIÓN BASES DE DATOS DEL VIENTO"
 
   - The main file of this folder is called WIND RESOURCE.m
+ 
+  - The Wind Resource database can be otained in "WDCERTE.rar"
